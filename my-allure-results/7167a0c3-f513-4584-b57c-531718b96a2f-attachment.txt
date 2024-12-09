@@ -1,0 +1,12 @@
+login successful
+Error occurred in clicking the element: Error: locator.waitFor: Target page, context or browser has been closed
+Call log:
+  - waiting for getByRole('link', { name: 'Contacts' }) to be visible
+
+Error occurred in clicking the element: Error: page.waitForTimeout: Target page, context or browser has been closed
+Error occurred in setting the input text: Error: locator.waitFor: Target page, context or browser has been closed
+Error occurred in setting the input text: Error: locator.waitFor: Target page, context or browser has been closed
+Error occurred in clicking the element: Error: page.waitForTimeout: Target page, context or browser has been closed
+Error occurred in clicking the element: Error: page.waitForTimeout: Target page, context or browser has been closed
+Error occurred in clicking the element: Error: page.waitForTimeout: Target page, context or browser has been closed
+logout successful
